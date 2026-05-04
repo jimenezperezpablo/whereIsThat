@@ -46,8 +46,6 @@ public class Localizacion {
         this.nombre = nombre;
     }
 
-
-
     public String getDescripcion() {
         return descripcion;
     }
